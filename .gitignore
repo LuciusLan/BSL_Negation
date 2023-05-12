@@ -1,0 +1,13 @@
+/bert*
+/biobert*
+/__pycache__
+.pylintrc
+*.pt
+/Record
+/pics
+/model_chk
+/seg
+/statistics
+/.vscode
+*.log
+/Data
